@@ -47,11 +47,16 @@ The segmentation task was evaluated using the following metrics:
 
 Here are the visualizations related to the project:
 
-- **Dataset Visualization:** `visualize_dataset.png` (Visualizes the dataset)
-- **Model Training Visualization:** `unet.png` (Shows U-Net model training results)
-- **Output Visualization:** `output.png` (Shows the segmentation output)
+- **Dataset Visualization:**
+| ![](Visualize_Dataset.png) |
 
-## Code Execution
+- **Model Training Visualization:**
+| ![](unet.png) |
+
+- **Output Visualization:**
+| ![](output.png) |
+
+## Model Training
 
 To train the model, use the following command:
 
