@@ -48,10 +48,10 @@ The segmentation task was evaluated using the following metrics:
 Here are the visualizations related to the project:
 
 - **Dataset Visualization:**
-| ![](Visualize_Dataset.png) |
+| ![](Visualize_dataset.png) |
 
 - **Model Training Visualization:**
-| ![](unet.png) |
+| ![](training.png) |
 
 - **Output Visualization:**
 | ![](output.png) |
