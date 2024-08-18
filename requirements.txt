@@ -1,0 +1,6 @@
+seaborn
+torchmetrics
+torchvision
+torch
+segmentation_models_pytorch
+albumentations
